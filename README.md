@@ -25,7 +25,7 @@ The website is designed with a clean and intuitive interface to enhance user exp
 1. Visit the site: [Rota Agency](https://rota-beta.vercel.app/).  
 2. Browse through the sections to learn about the agency’s mission, services, and team.  
 3. Check out the portfolio for real-world examples of Rota Agency's impact.  
-4. Use the [Contact](/contact.html) page to connect with the team for inquiries or support.  
+4. Use the [Contact](./contact/contact.html) page to connect with the team for inquiries or support.  
 
 ## Feedback and Support  
 Rota Agency values your input!  
