@@ -1,3 +1,5 @@
-import { SpeedInsights } from "@vercel/speed-insights/next"
+import { injectSpeedInsights } from '@vercel/speed-insights';
+
+injectSpeedInsights();
 document.addEventListener("DOMContentLoaded", function() {
 });
